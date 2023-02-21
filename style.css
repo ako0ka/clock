@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    background-color:#333333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 50%;
+    height: 300px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 3rem;
+    color: red;
+}
